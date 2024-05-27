@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(90deg, rgb(216, 116, 255) 0%, rgb(198, 112, 255) 50%, rgb(248, 139, 248) 100%);
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background: linear-gradient(90deg, rgb(176, 11, 241) 0%, rgb(255, 2, 200) 50%, rgb(182, 0, 167) 100%);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#qrcode {
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin-left: 30%;
+}
+p{
+    text-align: center;
+    font-size: 18px;
+    margin-top: 200px;
+}
+.werp{
+    width: 255px;
+    height: 255px;
+}

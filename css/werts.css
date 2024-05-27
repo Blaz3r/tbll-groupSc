@@ -100,3 +100,20 @@ nav li {
         color: #fff;
         list-style: none;
     }
+    .Rerfe{
+      padding: 15px 20px;
+        background: linear-gradient(90deg, rgb(52, 255, 79) 0%, rgb(28, 202, 5) 50%, rgb(23, 131, 2) 100%);
+        background-color: auto;
+        border-radius: 5px;
+        list-style: none;
+       font-size: 30px;
+       margin-left: 4px;
+       margin-right: 5px;
+       color: white;
+       position: relative;
+    }
+    .Rerfe:hover{
+      background: linear-gradient(90deg, rgb(125, 255, 143) 0%, rgb(100, 192, 46) 50%, rgb(52, 231, 111) 100%);
+        color: #00ce11;
+        list-style: none;
+    }
